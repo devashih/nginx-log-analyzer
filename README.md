@@ -13,3 +13,4 @@ This project analyzes Nginx access logs and prints:
 chmod +x analyze_logs.sh
 ./analyze_logs.sh
 https://github.com/devashih/nginx-log-analyzer
+https://roadmap.sh/projects/nginx-log-analyser
